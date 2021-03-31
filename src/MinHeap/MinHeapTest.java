@@ -2,12 +2,12 @@ package MinHeap;
 
 
 
-public class MinHeap {
+public class MinHeapTest {
 
     int[] frequency = {16,10,5,12,3,4,13,1};
 
 
-    public MinHeap(){
+    public MinHeapTest(){
         addToHeap();
         printHeap();
     }

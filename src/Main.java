@@ -1,7 +1,7 @@
-import MinHeap.MinHeap;
+import MinHeap.MinHeapTest;
 
 public class Main {
     public static void main(String[] args) {
-        MinHeap heap = new MinHeap();
+        MinHeapTest heap = new MinHeapTest();
     }
 }
